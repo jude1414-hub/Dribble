@@ -1,5 +1,5 @@
 # Project Responsive Web Design using Bootstrap
-## Date:27-12-2024
+## Date:
 
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
@@ -161,7 +161,7 @@ Publish the website in the LocalHost.
 
     <footer class="bg-dark text-white py-4">
         <div class="container text-center">
-            <p>Designed by NANDA KISHOR S P</p>
+            <p>Designed by Jude Clement Jose G P</p>
         </div>
     </footer>
  
